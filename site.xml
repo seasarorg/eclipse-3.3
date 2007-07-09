@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.seasar.mayaa.matatabi.feature_1.1.0.jar" id="org.seasar.mayaa.matatabi.feature" version="1.1.0">
+   <feature url="features/org.seasar.mayaa.matatabi.feature_1.1.1.jar" id="org.seasar.mayaa.matatabi.feature" version="1.1.1">
       <category name="Matatabi"/>
    </feature>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
