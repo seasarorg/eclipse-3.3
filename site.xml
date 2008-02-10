@@ -6,6 +6,10 @@
    <feature url="features/org.seasar.resource.synchronizer.feature_0.0.2.jar" id="org.seasar.resource.synchronizer.feature" version="0.0.2">
       <category name="ResourceSynchronizer"/>
    </feature>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.1.1.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.1.1">
+      <category name="EMecha"/>
+   </feature>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
+   <category-def name="EMecha" label="EMecha"/>
 </site>
