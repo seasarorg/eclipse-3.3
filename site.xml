@@ -3,7 +3,7 @@
    <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.0.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.0">
       <category name="Matatabi"/>
    </feature>
-   <feature url="features/org.seasar.resource.synchronizer.feature_0.0.2.jar" id="org.seasar.resource.synchronizer.feature" version="0.0.2">
+   <feature url="features/org.seasar.resource.synchronizer.feature_0.0.3.jar" id="org.seasar.resource.synchronizer.feature" version="0.0.3">
       <category name="ResourceSynchronizer"/>
    </feature>
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.1.1.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.1.1">
