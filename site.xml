@@ -12,6 +12,9 @@
    <feature url="features/org.seasar.sastrutsplugin.feature_0.0.1.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.1">
       <category name="SAStrutsPlugin"/>
    </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.2.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.2">
+      <category name="SAStrutsPlugin"/>
+   </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
