@@ -18,8 +18,15 @@
    <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.3.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.3">
       <category name="Matatabi"/>
    </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.30.0.jar" id="org.seasar.dolteng.eclipse" version="0.30.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse.dependency_0.30.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.30.0">
+      <category name="Dolteng"/>
+   </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
    <category-def name="EMecha" label="EMecha"/>
+   <category-def name="Dolteng" label="Dolteng"/>
 </site>
