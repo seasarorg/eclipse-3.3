@@ -15,6 +15,9 @@
    <feature url="features/org.seasar.sastrutsplugin.feature_0.0.2.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.2">
       <category name="SAStrutsPlugin"/>
    </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.3.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.3">
+      <category name="SAStrutsPlugin"/>
+   </feature>
    <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.3.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.3">
       <category name="Matatabi"/>
    </feature>
