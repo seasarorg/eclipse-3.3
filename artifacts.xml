@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository class='org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository' version='1.0.0'?>
+<repository name='file:/D:/USER/workspace2/seasar-updates-3.3/ - artifacts' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.compressed' value='false'/>
+    <property name='p2.timestamp' value='1218779008032'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='50'>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.8'>
+      <properties size='3'>
+        <property name='artifact.size' value='60496'/>
+        <property name='download.size' value='60496'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.6'>
+      <properties size='2'>
+        <property name='artifact.size' value='6646'/>
+        <property name='download.size' value='6646'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.kijimuna' version='1.1.12'>
+      <properties size='2'>
+        <property name='artifact.size' value='14659'/>
+        <property name='download.size' value='14659'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.dolteng.eclipse' version='0.31.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='2312'/>
+        <property name='download.size' value='2312'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.kijimuna.ui' version='1.1.12'>
+      <properties size='3'>
+        <property name='artifact.size' value='153861'/>
+        <property name='download.size' value='153861'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.kijimuna' version='1.1.14'>
+      <properties size='2'>
+        <property name='artifact.size' value='14833'/>
+        <property name='download.size' value='14833'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.resource.synchronizer' version='0.0.5'>
+      <properties size='3'>
+        <property name='artifact.size' value='1160463'/>
+        <property name='download.size' value='1160463'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.projects.dependencies1' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='4437680'/>
+        <property name='download.size' value='4437680'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.projects.dependencies1' version='0.31.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='4519161'/>
+        <property name='download.size' value='4519161'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.kijimuna.ui' version='1.1.14'>
+      <properties size='3'>
+        <property name='artifact.size' value='153929'/>
+        <property name='download.size' value='153929'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.mayaa.matatabi' version='1.2.4'>
+      <properties size='3'>
+        <property name='artifact.size' value='1160208'/>
+        <property name='download.size' value='1160208'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='5478'/>
+        <property name='download.size' value='5478'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.mayaa.matatabi.feature' version='1.2.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='1209'/>
+        <property name='download.size' value='1209'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.7'>
+      <properties size='2'>
+        <property name='artifact.size' value='6733'/>
+        <property name='download.size' value='6733'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.8'>
+      <properties size='2'>
+        <property name='artifact.size' value='6789'/>
+        <property name='download.size' value='6789'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='6285'/>
+        <property name='download.size' value='6285'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.mayaa.matatabi' version='1.2.3'>
+      <properties size='3'>
+        <property name='artifact.size' value='956054'/>
+        <property name='download.size' value='956054'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.dbflute.emecha.eclipse.feature' version='0.1.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='706'/>
+        <property name='download.size' value='706'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.2'>
+      <properties size='3'>
+        <property name='artifact.size' value='41842'/>
+        <property name='download.size' value='41842'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.resource.synchronizer.feature' version='0.0.5'>
+      <properties size='2'>
+        <property name='artifact.size' value='2431'/>
+        <property name='download.size' value='2431'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.dolteng.eclipse.dependency' version='0.30.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='2275'/>
+        <property name='download.size' value='2275'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.projects' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='4045358'/>
+        <property name='download.size' value='4045358'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.dolteng.eclipse.dependency' version='0.31.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='2276'/>
+        <property name='download.size' value='2276'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.dolteng.eclipse' version='0.30.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='2311'/>
+        <property name='download.size' value='2311'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.docs' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='13531395'/>
+        <property name='download.size' value='13531395'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.mayaa.matatabi.feature' version='1.2.3'>
+      <properties size='2'>
+        <property name='artifact.size' value='1212'/>
+        <property name='download.size' value='1212'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.4'>
+      <properties size='3'>
+        <property name='artifact.size' value='48133'/>
+        <property name='download.size' value='48133'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.1'>
+      <properties size='3'>
+        <property name='artifact.size' value='31922'/>
+        <property name='download.size' value='31922'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.3'>
+      <properties size='3'>
+        <property name='artifact.size' value='46845'/>
+        <property name='download.size' value='46845'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.eclipse' version='0.31.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='11575978'/>
+        <property name='download.size' value='11575978'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.mayaa.matatabi' version='1.2.5'>
+      <properties size='3'>
+        <property name='artifact.size' value='1157232'/>
+        <property name='download.size' value='1157232'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.mayaa.matatabi' version='1.2.2'>
+      <properties size='3'>
+        <property name='artifact.size' value='952708'/>
+        <property name='download.size' value='952708'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.mayaa.matatabi' version='1.2.1'>
+      <properties size='3'>
+        <property name='artifact.size' value='950838'/>
+        <property name='download.size' value='950838'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.7'>
+      <properties size='3'>
+        <property name='artifact.size' value='60436'/>
+        <property name='download.size' value='60436'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.mayaa.matatabi.feature' version='1.2.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='1212'/>
+        <property name='download.size' value='1212'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.scaffold' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='35057'/>
+        <property name='download.size' value='35057'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.5'>
+      <properties size='2'>
+        <property name='artifact.size' value='6467'/>
+        <property name='download.size' value='6467'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.scaffold' version='0.31.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='42867'/>
+        <property name='download.size' value='42867'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.5'>
+      <properties size='3'>
+        <property name='artifact.size' value='50453'/>
+        <property name='download.size' value='50453'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='5478'/>
+        <property name='download.size' value='5478'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.projects' version='0.31.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='4060005'/>
+        <property name='download.size' value='4060005'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.kijimuna.core' version='1.1.14'>
+      <properties size='3'>
+        <property name='artifact.size' value='413305'/>
+        <property name='download.size' value='413305'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.sastrutsplugin' version='0.0.6'>
+      <properties size='3'>
+        <property name='artifact.size' value='60429'/>
+        <property name='download.size' value='60429'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.eclipse' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='11524181'/>
+        <property name='download.size' value='11524181'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.mayaa.matatabi.feature' version='1.2.5'>
+      <properties size='2'>
+        <property name='artifact.size' value='1212'/>
+        <property name='download.size' value='1212'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.kijimuna.core' version='1.1.12'>
+      <properties size='3'>
+        <property name='artifact.size' value='413548'/>
+        <property name='download.size' value='413548'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dbflute.emecha.eclipse.plugin' version='0.1.1'>
+      <properties size='3'>
+        <property name='artifact.size' value='83793'/>
+        <property name='download.size' value='83793'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.sastrutsplugin.feature' version='0.0.3'>
+      <properties size='2'>
+        <property name='artifact.size' value='6050'/>
+        <property name='download.size' value='6050'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.seasar.dolteng.projects.dependencies2' version='0.30.0'>
+      <properties size='3'>
+        <property name='artifact.size' value='34331754'/>
+        <property name='download.size' value='34331754'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.seasar.mayaa.matatabi.feature' version='1.2.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='1212'/>
+        <property name='download.size' value='1212'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>
