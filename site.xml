@@ -51,7 +51,7 @@
    <feature url="features/org.seasar.kijimuna_1.1.14.jar" id="org.seasar.kijimuna" version="1.1.14">
       <category name="Kijimuna"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.SNAPSHOT.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.SNAPSHOT">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.2008092401.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.2008092401">
       <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
