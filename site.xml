@@ -54,6 +54,9 @@
    <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.2008092401.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.2008092401">
       <category name="Ymir"/>
    </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.2008092601.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.2008092601">
+      <category name="Ymir"/>
+   </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
