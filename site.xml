@@ -51,13 +51,16 @@
    <feature url="features/org.seasar.kijimuna_1.1.14.jar" id="org.seasar.kijimuna" version="1.1.14">
       <category name="Kijimuna"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.2008100701.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.2008100701">
-      <category name="Ymir"/>
-   </feature>
    <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.2008101101.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.2008101101">
       <category name="Ymir"/>
    </feature>
    <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810130225.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810130225">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810141643.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810141643">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.200810141643.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.200810141643">
       <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
