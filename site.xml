@@ -66,10 +66,10 @@
    <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810141643.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810141643">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.200811141804.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.200811141804">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.200811191226.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.200811191226">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.200811191226.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.200811191226">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.1.200811201406.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.1.200811201406">
       <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
