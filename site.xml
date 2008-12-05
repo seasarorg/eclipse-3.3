@@ -75,7 +75,7 @@
    <feature url="features/org.seasar.ymir.eclipse.feature_0.0.2.200811261822.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.2.200811261822">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.s2junit4plugin.feature_0.1.0.200812042355.jar" id="org.seasar.s2junit4plugin.feature" version="0.1.0.200812042355">
+   <feature url="features/org.seasar.s2junit4plugin.feature_0.1.0.jar" id="org.seasar.s2junit4plugin.feature" version="0.1.0">
       <category name="S2JUnit4Plugin"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
