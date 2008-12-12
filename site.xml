@@ -45,6 +45,9 @@
    <feature url="features/org.seasar.sastrutsplugin.feature_0.0.12.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.12">
       <category name="SAStrutsPlugin"/>
    </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.13.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.13">
+      <category name="SAStrutsPlugin"/>
+   </feature>
    <feature url="features/org.seasar.dolteng.eclipse_0.33.0.jar" id="org.seasar.dolteng.eclipse" version="0.33.0">
       <category name="Dolteng"/>
    </feature>
