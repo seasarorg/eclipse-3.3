@@ -78,10 +78,10 @@
    <feature url="features/org.seasar.s2junit4plugin.feature_0.1.1.200812151526.jar" id="org.seasar.s2junit4plugin.feature" version="0.1.1.200812151526">
       <category name="S2JUnit4Plugin"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.3.200812151947.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.3.200812151947">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.3.200812240055.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.3.200812240055">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.3.200812240055.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.3.200812240055">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.0.3.200812241645.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.3.200812241645">
       <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
