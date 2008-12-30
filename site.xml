@@ -63,9 +63,6 @@
    <feature url="features/org.seasar.kijimuna_1.1.14.jar" id="org.seasar.kijimuna" version="1.1.14">
       <category name="Kijimuna"/>
    </feature>
-   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810130225.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810130225">
-      <category name="Ymir"/>
-   </feature>
    <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810141643.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810141643">
       <category name="Ymir"/>
    </feature>
@@ -83,6 +80,9 @@
    </feature>
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.2.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.2.0">
       <category name="EMecha"/>
+   </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758">
+      <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
