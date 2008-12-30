@@ -81,7 +81,7 @@
    <feature url="features/org.seasar.ymir.eclipse.feature_0.0.4.200812301443.jar" id="org.seasar.ymir.eclipse.feature" version="0.0.4.200812301443">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.1.2.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.1.2">
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.2.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.2.0">
       <category name="EMecha"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
