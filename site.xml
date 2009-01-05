@@ -81,10 +81,10 @@
    <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901021532.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901021532">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901021715.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901021715">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901021715.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901021715">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901060144.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901060144">
       <category name="Ymir"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
