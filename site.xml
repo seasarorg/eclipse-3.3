@@ -3,6 +3,9 @@
    <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.6.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.6">
       <category name="Matatabi"/>
    </feature>
+   <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.7.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.7">
+      <category name="Matatabi"/>
+   </feature>
    <feature url="features/org.seasar.resource.synchronizer.feature_0.0.5.jar" id="org.seasar.resource.synchronizer.feature" version="0.0.5">
       <category name="ResourceSynchronizer"/>
    </feature>
