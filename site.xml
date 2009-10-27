@@ -138,6 +138,9 @@
    <feature url="features/org.seasar.ymir.vili.template.feature_0.1.0.200910201557.jar" id="org.seasar.ymir.vili.template.feature" version="0.1.0.200910201557">
       <category name="Ymir"/>
    </feature>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.5.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.5">
+      <category name="EMecha"/>
+   </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
