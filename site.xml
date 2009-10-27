@@ -99,9 +99,6 @@
    <feature url="features/org.seasar.ymir.eclipse.feature_0.2.1.200903121626.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.1.200903121626">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.3.1.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.3.1">
-      <category name="EMecha"/>
-   </feature>
    <feature url="features/org.seasar.ymir.eclipse.feature_0.2.2.200903171912.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.2.200903171912">
       <category name="Ymir"/>
    </feature>
@@ -113,15 +110,6 @@
    </feature>
    <feature url="features/org.seasar.ymir.vili.template.feature_0.1.0.200905201653.jar" id="org.seasar.ymir.vili.template.feature" version="0.1.0.200905201653">
       <category name="Ymir"/>
-   </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.0">
-      <category name="EMecha"/>
-   </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.1.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.1">
-      <category name="EMecha"/>
-   </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.2.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.2">
-      <category name="EMecha"/>
    </feature>
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.3.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.3">
       <category name="EMecha"/>
@@ -138,7 +126,7 @@
    <feature url="features/org.seasar.ymir.vili.template.feature_0.1.0.200910201557.jar" id="org.seasar.ymir.vili.template.feature" version="0.1.0.200910201557">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.5.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.5">
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.6.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.6">
       <category name="EMecha"/>
    </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
