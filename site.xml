@@ -51,16 +51,16 @@
    <feature url="features/org.seasar.sastrutsplugin.feature_0.0.14.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.14">
       <category name="SAStrutsPlugin"/>
    </feature>
-   <feature url="features/org.seasar.dolteng.eclipse_0.38.0.jar" id="org.seasar.dolteng.eclipse" version="0.38.0">
-      <category name="Dolteng"/>
-   </feature>
-   <feature url="features/org.seasar.dolteng.eclipse.dependency_0.38.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.38.0">
-      <category name="Dolteng"/>
-   </feature>
    <feature url="features/org.seasar.dolteng.eclipse_0.39.0.jar" id="org.seasar.dolteng.eclipse" version="0.39.0">
       <category name="Dolteng"/>
    </feature>
    <feature url="features/org.seasar.dolteng.eclipse.dependency_0.39.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.39.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.40.0.jar" id="org.seasar.dolteng.eclipse" version="0.40.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse.dependency_0.40.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.40.0">
       <category name="Dolteng"/>
    </feature>
    <feature url="features/org.seasar.kijimuna_1.1.12.jar" id="org.seasar.kijimuna" version="1.1.12">
