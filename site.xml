@@ -225,9 +225,6 @@
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.5.2.9.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.5.2.9">
       <category name="EMecha"/>
    </feature>
-   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.5.3.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.5.3.0">
-      <category name="EMecha"/>
-   </feature>
    <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
    <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
    <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
